@@ -136,13 +136,6 @@ pip install -r requirements.txt
 ### Data
 
 Download the Kaggle Novozymes Enzyme Stability dataset and place files as follows:
-
-```
-data/raw/train.csv
-data/raw/test.csv
-data/raw/test_labels.csv
-```
-
 The data is not tracked in this repository. You can obtain it from the [Kaggle competition page](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction).
 
 ---

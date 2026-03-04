@@ -1,0 +1,44 @@
+# Data (not tracked — download from Kaggle)
+data/
+
+# Model outputs (not tracked — regenerate with pipeline)
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+*.npy.checkpoint
+*_checkpoint.npy
+
+# Logs
+*.log
